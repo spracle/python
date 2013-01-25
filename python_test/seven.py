@@ -51,12 +51,3 @@ for i in range(3):
 		print 6000 + (num - 100)*70
 	elif num > 300:
 		print 20000 + (num - 300)*80
-'''
-Below are the error details
-
-File "prog.py", line 2, in 
-File "", line 1
-150
-^
-SyntaxError: unexpected EOF while parsing
-'''
